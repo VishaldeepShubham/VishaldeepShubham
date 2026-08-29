@@ -1,4 +1,4 @@
-# Hola, I'm Vishal Deep
+# 👋 Hi, I'm Vishal Deep
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Java+%7C+DSA+%7C+SQL;Web+%26+Frontend+Developer;Data+Analytics+Enthusiast;Currently+Exploring+AI%2FML" alt="Typing Animation"/>
@@ -209,7 +209,7 @@ Responsive Netflix-inspired frontend.
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaldeepShubham&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
@@ -217,12 +217,8 @@ Responsive Netflix-inspired frontend.
   <img src="https://streak-stats.demolab.com?user=VishaldeepShubham&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
-# 🐍 Contribution Activity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaldeepShubham&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 ---
