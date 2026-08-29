@@ -206,7 +206,7 @@ Responsive Netflix-inspired frontend.
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
