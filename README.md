@@ -1,210 +1,280 @@
 # 👋 Hi, I'm Vishal Deep
 
-### 💻 Computer Science Engineer | Java • DSA • Web Development • Data Analytics
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Data+Structures+%26+Algorithms;Web+Development+%7C+SQL;Data+Analytics+%7C+Power+BI;Building+Practical+Software+Projects;Currently+Exploring+AI%2FML" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Java+%7C+DSA+%7C+SQL;Web+%26+Frontend+Developer;Data+Analytics+Enthusiast;Currently+Exploring+AI%2FML" alt="Typing Animation"/>
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a Computer Science & Engineering undergraduate at **Bharati Vidyapeeth College of Engineering, Pune**, focused on building practical software and strengthening my problem-solving skills.
+```text
+🎓 B.Tech Computer Science & Engineering
+🏫 Bharati Vidyapeeth College of Engineering, Pune
+📊 CGPA: 8.78 / 10
+💻 Java + Data Structures & Algorithms
+🌐 Web Development
+🗄️ SQL + MySQL
+📊 Power BI + Excel
+🤖 Exploring AI / Machine Learning
+```
 
-* 🎓 B.Tech Computer Science & Engineering
-* 📊 **CGPA: 8.78 / 10**
-* 💻 Java & Data Structures
-* 🌐 Web Development
-* 🗄️ SQL & MySQL
-* 📊 Power BI & Data Analytics
-* 🤖 Currently exploring AI/ML
-* 🔨 Interested in building useful, scalable applications
+I'm a Computer Science undergraduate interested in building **practical, scalable and data-driven applications**.
+
+My current focus is strengthening **DSA and Java**, while expanding into **backend development, data and AI/ML**.
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
-`Java` `C` `JavaScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,js" />
+</p>
 
-### Web
+### Web Development
 
-`HTML` `CSS` `JavaScript` `React.js` `WordPress`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" />
+</p>
 
-### Database & Data
+### Database & Analytics
 
-`MySQL` `SQL` `Power BI` `Excel`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ### Tools
 
-`Git` `GitHub` `Blender` `Photoshop` `Illustrator`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 🗜️ Universal Compressor
+<table>
+<tr>
+<td width="50%">
 
-**HTML • CSS • JavaScript • Node.js • File Systems • Huffman Coding**
+## 🗜️ Universal Compressor
 
-A lossless file compression tool designed to work with different file formats.
+**Huffman Coding • Node.js • File Systems**
 
-* Implemented Huffman Coding
-* Achieved approximately 60–70% average file-size reduction
-* Handles binary file I/O
-* Maintains data integrity during decompression
-* Designed to support images, audio, video, PDFs and other file types
+Lossless compression tool designed to handle multiple file types.
 
-🔗 **[View Repository](YOUR_UNIVERSAL_COMPRESSOR_REPO)**
+**Highlights**
 
----
+* Huffman Coding implementation
+* ~60–70% average compression
+* Binary file I/O
+* Data integrity during decompression
+* Supports images, audio, video, PDFs & more
 
-### 📚 Library Management System
+<a href="YOUR_COMPRESSOR_REPO">
+  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 📚 Library Management System
 
 **Java Swing • MySQL**
 
-Desktop-based library management system with database-backed operations.
+Desktop application for managing library operations.
 
-* Book issuing and returns
+**Features**
+
+* Admin & user authentication
+* Book issue / return
 * Inventory management
-* Admin and user authentication
-* Book search
+* Search functionality
 * Fine calculation
 * MySQL database integration
 
-🔗 **[View Repository](YOUR_LIBRARY_REPO)**
+<a href="YOUR_LIBRARY_REPO">
+  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</td>
+</tr>
 
-### 📊 Sales Analytics Dashboard
+<tr>
+<td width="50%">
+
+## 📊 Sales Analytics Dashboard
 
 **Power BI • Tableau • Excel**
 
-Interactive dashboard for analysing business and sales performance.
+Interactive dashboard for analysing business performance.
 
-* Revenue analysis
+**Insights**
+
+* Revenue trends
 * Regional performance
-* Product-wise sales
-* Dynamic filtering
+* Product analysis
+* Dynamic filters
 * Drill-down analysis
-* Business-focused insights
 
-🔗 **[View Repository](YOUR_DASHBOARD_REPO)**
+<a href="YOUR_DASHBOARD_REPO">
+  <img src="https://img.shields.io/badge/View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
 
----
+</td>
 
-### 🎬 Netflix Clone
+<td width="50%">
+
+## 🎬 Netflix Clone
 
 **HTML • CSS • JavaScript**
 
-Responsive Netflix-inspired frontend focused on recreating the platform's UI/UX.
+Responsive Netflix-inspired frontend.
 
-* Responsive design
 * Dynamic content
 * Media cards
 * Navigation
-* Interactive categories
-
-🔗 **[View Repository](YOUR_NETFLIX_REPO)**
-
----
-
-### 🎵 Spotify Clone
-
-**HTML • CSS • JavaScript**
-
-Responsive Spotify-inspired frontend with interactive media-platform components.
-
+* Category interactions
 * Responsive UI
-* Media cards
-* Playback interface
-* Dynamic rendering
-* Interactive components
 
-🔗 **[View Repository](YOUR_SPOTIFY_REPO)**
+<a href="YOUR_NETFLIX_REPO">
+  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
 ### 🌐 WordPress & Web Developer Intern
 
-**Honey Bee Digital | May 2026 – August 2026**
+**Honey Bee Digital · May 2026 – August 2026**
 
 * Developed responsive websites using WordPress, HTML, CSS and JavaScript
-* Customized themes and created reusable frontend components
-* Integrated plugins based on client requirements
-* Optimized images, code and responsive layouts for better performance
+* Customized WordPress themes and reusable frontend components
+* Integrated plugins according to client requirements
+* Optimized images, code and responsive layouts
 
 ### ⚛️ Frontend Developer Intern
 
-**Relief Mission Foundation | October 2025**
+**Relief Mission Foundation · October 2025**
 
 * Developed responsive interfaces using React.js
-* Converted Figma designs into functional web interfaces
+* Converted Figma designs into functional interfaces
 * Improved mobile accessibility
-* Optimized JavaScript/CSS assets and images
+* Optimized JavaScript/CSS assets and image compression
 * Contributed to approximately 20% improvement in page-load performance
 
 ---
 
 # 🧠 Currently Learning
 
+<p align="center">
+
 ```text
-DSA & Problem Solving
-        ↓
-Advanced Java
-        ↓
-SQL & Database Systems
-        ↓
-Backend Development
-        ↓
-Data Analytics
-        ↓
-AI / Machine Learning
+             ┌─────────────────┐
+             │   Java + DSA    │
+             └────────┬────────┘
+                      ↓
+             ┌─────────────────┐
+             │ SQL + Databases │
+             └────────┬────────┘
+                      ↓
+             ┌─────────────────┐
+             │ Backend Systems │
+             └────────┬────────┘
+                      ↓
+             ┌─────────────────┐
+             │  Data + AI/ML   │
+             └─────────────────┘
 ```
 
-I'm currently working toward combining **software engineering, data and AI** to build practical applications.
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
 
 ---
 
 # 🏆 Certifications & Activities
 
-* ☁️ Google Cloud Computing Foundation
-* 🏅 Elite — NPTEL DBMS
-* 📊 Deloitte Australia Data Analytics Job Simulation
-* 📈 Business Intelligence Course — Infosys
-* 💻 Frontend Development Internship — Relief Mission Foundation
-* 🎯 Equation: Ultimate Inter-College Fest — IIIT Pune
+| Certification / Activity             |                                 |
+| ------------------------------------ | ------------------------------- |
+| ☁️ Google Cloud Computing Foundation | Completed                       |
+| 🏅 NPTEL DBMS                        | Elite                           |
+| 📊 Deloitte Australia                | Data Analytics Job Simulation   |
+| 📈 Infosys                           | Business Intelligence Course    |
+| 💻 Relief Mission Foundation         | Frontend Development Internship |
+| 🎯 IIIT Pune                         | Equation — Inter-College Fest   |
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 2026 Focus
+
+```text
+DSA
+ │
+ ├── Java
+ │
+ ├── Problem Solving
+ │
+ ├── SQL
+ │
+ ├── Backend Development
+ │
+ └── AI / Machine Learning
+```
+
+### Building → Learning → Improving → Repeating
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <b>Always building something better.</b> 🚀
 </p>
 
 ---
 
-## 🎯 2026 Focus
-
-**DSA → Software Development → Data → AI/ML**
-
-Building projects. Solving problems. Learning continuously.
-
 <p align="center">
-  <b>Let's build something useful. 🚀</b>
+  <i>Thanks for visiting my profile.</i>
 </p>
