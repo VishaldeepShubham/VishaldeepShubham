@@ -1,216 +1,266 @@
-<h1 align="center">Hola, I'm Vishal Deep 👋</h1>
+# Hola, I'm Vishal Deep
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer+%40+BVCOE+Pune;Java+%7C+DSA+%7C+SQL+%7C+Power+BI;Web+%26+Frontend+Developer;Data+Analytics+Enthusiast;Building+Practical%2C+Real-World+Software" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=60&lines=Vishal+Deep;Computer+Science+Engineer;Java+%7C+DSA+%7C+SQL;Web+%26+Frontend+Developer;Data+Analytics+Enthusiast" alt="Vishal Deep animated introduction"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VishaldeepShubham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="http://www.linkedin.com/in/vishal-deep06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="http://vd-port.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:vishaldeepshubham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&section=header" width="80%" alt="divider"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishaldeepShubham&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/CGPA-8.78%2F10-brightgreen?style=flat-square" alt="CGPA"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Open to Work"/>
+  <b>Building practical software • Solving problems • Turning ideas into products</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VishaldeepShubham">
+    <img src="https://img.shields.io/badge/GitHub-VishaldeepShubham-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-deep06/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Deep-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://vd-port.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://un1com.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-Universal%20Compressor-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Universal Compressor"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishaldeepShubham&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering undergraduate at Bharati Vidyapeeth College of Engineering, Pune** (Class of 2027), interested in building practical software and solving real-world problems through technology.
+I'm a **Computer Science & Engineering undergraduate at Bharati Vidyapeeth College of Engineering, Pune**, interested in software development, problem solving, web technologies and data-driven applications.
 
-- 🎓 B.Tech CSE · **CGPA 8.78 / 10.0**
-- 💻 Java, Data Structures & Algorithms
-- 🌐 Web Development — HTML, CSS, JS, React, WordPress
-- 🗄️ SQL & MySQL
-- 📊 Power BI, Tableau & Data Analytics
-- 🤖 Exploring AI/ML
-- 🚀 Focused on shipping practical, end-to-end projects
+```text
+🎓 B.Tech CSE
+📊 CGPA: 8.78 / 10
+💻 Java + Data Structures & Algorithms
+🌐 Web Development
+🗄️ SQL + MySQL
+📊 Power BI + Excel
+🤖 Exploring AI/ML
+🚀 Building practical projects
+```
 
-<details>
-<summary>⚡ Quick facts (click to expand)</summary>
-<br>
-
-- 🏢 Currently interning as a **WordPress & Web Developer** at Honey Bee Digital
-- 🌱 Learning: AI-assisted dev workflows (Antigravity, Cursor) and deeper data analytics
-- 🎯 Participated in Equation — the Ultimate Inter-College Fest, IIIT Pune
-- 💬 Ask me about: Java/DSA, WordPress theming, or Power BI dashboards
-- 📫 Reach me fastest via [email](mailto:vishaldeepshubham@gmail.com) or [LinkedIn](http://www.linkedin.com/in/vishal-deep06)
-
-</details>
+I enjoy taking an idea from **concept → implementation → usable product**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages**
-
-<p><img src="https://skillicons.dev/icons?i=java,c,js" alt="Programming Languages"/></p>
-
-**Web Development**
-
-<p><img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" alt="Web Technologies"/></p>
-
-**Database & Analytics**
+### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://skillicons.dev/icons?i=java,c,js" alt="Java C JavaScript"/>
 </p>
 
-**AI Tools & Design**
+### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Antigravity-6E56CF?style=for-the-badge" alt="Antigravity"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" alt="HTML CSS JavaScript React WordPress"/>
 </p>
 
-**Tools**
+### 🗄️ Database & Analytics
 
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/></p>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
+<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Work
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🗜️ Universal Compressor
-**HTML • CSS • JavaScript • Node.js**
+## 🗜️ Universal Compressor
 
-A lossless file compression tool built on **Huffman Coding**.
+**Lossless File Compression**
 
-- Huffman Coding implementation
-- 60–70% average file-size reduction
-- Binary file I/O with 100% data integrity on decompression
-- Works on images, audio, video and PDFs
+A universal compression application built around **Huffman Coding**, designed to compress different file types while maintaining data integrity.
 
-<a href="https://un1com.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+### ⚡ Highlights
+
+* Huffman Coding
+* Binary file handling
+* Lossless compression
+* Image / audio / video / PDF support
+* 60–70% average file-size reduction
+
+<p>
+<a href="https://un1com.netlify.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-2563EB?style=for-the-badge" alt="Live Demo"/>
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📚 Library Management System
+## 📊 Sales Dashboard
+
+**Power BI • Excel**
+
+Interactive sales analytics dashboard focused on turning raw business data into actionable insights.
+
+### 📈 Analysis
+
+* Revenue trends
+* Regional performance
+* Product-wise sales
+* Dynamic filtering
+* Drill-down analysis
+
+<p>
+<a href="https://app.powerbi.com/groups/me/reports/06122abf-ddf4-4fdc-8f4e-9ef01a8944fc?ctid=bbc2175e-52d1-4ed6-bc3a-3ac479f5839d&pbi_source=linkShare&bookmarkGuid=7e5d8c72-6a9d-405e-88ea-0eebb6e08033">
+<img src="https://img.shields.io/badge/📊%20Open%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Dashboard"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📚 Library Management System
+
 **Java Swing • MySQL**
 
-Desktop-based library management application.
+Desktop-based application designed to manage library operations.
 
-- Admin & user login roles
-- Book issue, return & fine calculation
-- Real-time inventory tracking, no duplicate entries
-- MySQL-backed record management
+### 🔑 Features
 
-<a href="https://github.com/VishaldeepShubham?tab=repositories"><img src="https://img.shields.io/badge/Browse%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse Repositories"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Sales Dashboard
-**Power BI • Tableau • Excel**
-
-Interactive dashboard analysing sales performance.
-
-- Revenue trends & regional performance
-- Product-wise breakdown
-- Dynamic filtering & drill-down views
-
-<a href="https://app.powerbi.com/groups/me/reports/06122abf-ddf4-4fdc-8f4e-9ef01a8944fc?ctid=bbc2175e-52d1-4ed6-bc3a-3ac479f5839d&pbi_source=linkShare&bookmarkGuid=7e5d8c72-6a9d-405e-88ea-0eebb6e08033"><img src="https://img.shields.io/badge/View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Dashboard"/></a>
+* Admin & user authentication
+* Book issue / return
+* Inventory management
+* Book search
+* Fine calculation
+* MySQL integration
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎬 Netflix & Spotify Clones
+## 🎬 Netflix Clone
+
 **HTML • CSS • JavaScript**
 
-Responsive, pixel-focused clones of two popular streaming UIs.
+Responsive Netflix-inspired frontend focused on recreating the core visual experience.
 
-- Media cards, navigation & category filtering
-- Dynamic content rendering & search
-- Cross-device responsive design
+### 🎨 Features
 
-<a href="https://github.com/VishaldeepShubham/Netflix_"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+* Responsive UI
+* Navigation
+* Media cards
+* Dynamic content
+* Interactive components
+
+<p>
+<a href="https://github.com/VishaldeepShubham/Netflix_">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Netflix Source Code"/>
+</a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-**🌐 WordPress & Web Developer Intern** — Honey Bee Digital · *May 2026 – August 2026*
-- Developed and customized responsive websites using WordPress, HTML, CSS and JavaScript
-- Customized WordPress themes and built reusable frontend components
-- Integrated plugins according to client requirements
-- Optimized images, code and layouts for better performance
+### 🌐 WordPress & Web Developer Intern
 
-**⚛️ Frontend Developer Intern** — [Relief Mission Foundation](https://github.com/VishaldeepShubham/Relief_Mission_Foundation) · *October 2025*
-- Built and maintained responsive interfaces using React.js
-- Converted Figma designs into high-fidelity, functional interfaces
-- Minified JS/CSS assets and enabled browser caching
-- Contributed to a ~20% improvement in page-load performance
+**Honey Bee Digital · May 2026 – August 2026**
+
+* Developed responsive websites using WordPress, HTML, CSS and JavaScript
+* Customized WordPress themes and reusable frontend components
+* Integrated plugins according to client requirements
+* Optimized images, code and responsive layouts for improved usability
+
+### ⚛️ Frontend Developer Intern
+
+**Relief Mission Foundation · October 2025**
+
+* Developed responsive interfaces using React.js
+* Converted Figma designs into functional interfaces
+* Improved mobile accessibility
+* Optimized JavaScript/CSS assets and image compression
+* Contributed to approximately 20% improvement in page-load performance
 
 ---
 
-## 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaldeepShubham&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaldeepShubham&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VishaldeepShubham&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishaldeepShubham&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaldeepShubham&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://streak-stats.demolab.com?user=VishaldeepShubham&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 Certifications & Activities
+# 🏆 Certifications & Activities
 
-- ☁️ **Google Cloud Computing Foundation**
-- 🏅 [**Elite — NPTEL DBMS**](https://drive.google.com/file/d/1T2WWR8GnIu4kbdL9hzE_bdhBQzv_027F/view?usp=drive_link)
-- 📊 [**Deloitte Australia — Data Analytics Job Simulation**](https://drive.google.com/file/d/1_9ZyyjG-nEX2Dq_RXanE4H8hhe7AexTi/view?usp=sharing)
-- 📈 [**Infosys — Business Intelligence Course**](https://drive.google.com/drive/folders/1Toct4LQ_3arUfuNQ2YR-U1ZV3G0CFTcO?usp=sharing)
-- 💻 [**Frontend Development Internship — Relief Mission Foundation**](https://drive.google.com/file/d/15oiLpGck6GThObirTRLcP3SRU-5W4ZNd/view?usp=drive_link)
-- 🎯 **Equation — Ultimate Inter-College Fest, IIIT Pune**
+|    | Achievement                                                     |
+| -- | --------------------------------------------------------------- |
+| ☁️ | **Google Cloud Computing Foundation**                           |
+| 🏅 | **Elite — NPTEL DBMS**                                          |
+| 📊 | **Deloitte Australia — Data Analytics Job Simulation**          |
+| 📈 | **Infosys — Business Intelligence Course**                      |
+| 💻 | **Frontend Development Internship — Relief Mission Foundation** |
+| 🎯 | **Equation — Ultimate Inter-College Fest, IIIT Pune**           |
 
 ---
 
-## 📫 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:vishaldeepshubham@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="http://www.linkedin.com/in/vishal-deep06"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="http://vd-port.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+<a href="https://www.linkedin.com/in/vishal-deep06/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://vd-port.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://un1com.netlify.app/">
+<img src="https://img.shields.io/badge/Universal%20Compressor-Try%20It-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Universal Compressor"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=120&section=footer" alt="Footer"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer" alt="Footer"/>
+  <b>Building. Learning. Improving. 🚀</b>
 </p>
-
-<p align="center"><b>Building. Learning. Improving. 🚀</b></p>
