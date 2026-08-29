@@ -1,18 +1,12 @@
 # Hola, I'm Vishal Deep
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Java+%7C+Data+Structures+%26+Algorithms;Web+%26+Frontend+Developer;Data+Analytics+Enthusiast;Building+Practical+Software+Projects" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Java+%7C+DSA+%7C+SQL;Web+%26+Frontend+Developer;Data+Analytics+Enthusiast;Building+Practical+Software+Projects" alt="Typing Animation"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/VishaldeepShubham">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -24,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering undergraduate at Bharati Vidyapeeth College of Engineering, Pune**, interested in building practical software and solving real-world problems through technology.
+I'm a **Computer Science & Engineering undergraduate at Bharati Vidyapeeth College of Engineering, Pune**, focused on software development, problem solving and data-driven applications.
 
 * 🎓 B.Tech Computer Science & Engineering
 * 📊 **CGPA: 8.78 / 10**
@@ -33,134 +27,37 @@ I'm a **Computer Science & Engineering undergraduate at Bharati Vidyapeeth Colle
 * 🗄️ SQL & MySQL
 * 📊 Power BI & Data Analytics
 * 🤖 Exploring AI/ML
-* 🚀 Focused on building practical projects
+* 🚀 Interested in building practical software solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,js" alt="Programming Languages"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js" alt="Programming"/>
 </p>
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" alt="Web Technologies"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" alt="Web Development"/>
 </p>
 
 ### 🗄️ Database & Analytics
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
 ### 🔧 Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
 </p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗜️ Universal Compressor
-
-**HTML • CSS • JavaScript • Node.js**
-
-A lossless file compression tool based on **Huffman Coding**.
-
-**Highlights**
-
-* Huffman Coding implementation
-* 60–70% average file-size reduction
-* Binary file I/O
-* Data integrity during decompression
-* Supports images, audio, video and PDFs
-
-<a href="YOUR_COMPRESSOR_REPO">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Library Management System
-
-**Java Swing • MySQL**
-
-Desktop-based library management application.
-
-**Features**
-
-* Admin & user login
-* Book issue & return
-* Inventory tracking
-* Book search
-* Fine calculation
-* MySQL database integration
-
-<a href="YOUR_LIBRARY_REPO">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Sales Dashboard
-
-**Power BI • Tableau • Excel**
-
-Interactive dashboard for analysing sales performance.
-
-**Insights**
-
-* Revenue trends
-* Regional performance
-* Product-wise analysis
-* Dynamic filtering
-* Drill-down views
-
-<a href="YOUR_DASHBOARD_REPO">
-<img src="https://img.shields.io/badge/View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Dashboard"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎬 Netflix Clone
-
-**HTML • CSS • JavaScript**
-
-Responsive Netflix-inspired frontend.
-
-* Responsive UI
-* Dynamic content
-* Media cards
-* Navigation
-* Category filtering
-
-<a href="YOUR_NETFLIX_REPO">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -173,7 +70,7 @@ Responsive Netflix-inspired frontend.
 * Developed responsive websites using WordPress, HTML, CSS and JavaScript
 * Customized WordPress themes and reusable frontend components
 * Integrated plugins according to client requirements
-* Optimized images, code and responsive layouts for better performance
+* Optimized images, code and responsive layouts
 
 ### ⚛️ Frontend Developer Intern
 
@@ -187,7 +84,91 @@ Responsive Netflix-inspired frontend.
 
 ---
 
-# 📈 GitHub Statistics
+# 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone
+
+**HTML • CSS • JavaScript**
+
+Responsive Netflix-inspired frontend project.
+
+* Responsive UI
+* Navigation
+* Media cards
+* Interactive components
+
+<a href="https://github.com/VishaldeepShubham/Netflix_">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Netflix Repository"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Relief Mission Foundation
+
+**HTML • JavaScript • Frontend**
+
+Collection of frontend tasks and projects completed during the internship.
+
+Includes:
+
+* Navigation
+* Tic Tac Toe
+* Weather
+* Stopwatch
+* Portfolio
+* NGO website
+
+<a href="https://github.com/VishaldeepShubham/Relief_Mission_Foundation">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Relief Mission Repository"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 IoT PBL
+
+**C / Arduino**
+
+Academic IoT project containing Arduino implementation and supporting files.
+
+<a href="https://github.com/VishaldeepShubham/IOT-PBL">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="IoT Repository"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧑‍💻 More Projects Coming
+
+I'm continuously adding projects focused on:
+
+* Java & DSA
+* Backend Development
+* SQL
+* Data Analytics
+* AI/ML
+
+<a href="https://github.com/VishaldeepShubham?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
@@ -196,14 +177,6 @@ Responsive Netflix-inspired frontend.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VishaldeepShubham&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -219,8 +192,12 @@ Responsive Netflix-inspired frontend.
 
 ---
 
+## 📫 Connect
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer" alt="Footer"/>
+  <a href="https://github.com/VishaldeepShubham">
+    <img src="https://img.shields.io/badge/GitHub-VishaldeepShubham-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
