@@ -1,23 +1,20 @@
-# 👋 Hi, I'm Vishal Deep
+# Hola, I'm Vishal Deep
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Java+%7C+DSA+%7C+SQL;Web+%26+Frontend+Developer;Data+Analytics+Enthusiast;Currently+Exploring+AI%2FML" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/vishal-deep06">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://vd-port.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=VishaldeepShubham&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -46,27 +43,27 @@ My current focus is strengthening **DSA and Java**, while expanding into **backe
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,js" />
+  <img src="https://skillicons.dev/icons?i=java,c,js" alt="Java, C and JavaScript"/>
 </p>
 
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" alt="HTML, CSS, JavaScript, React and WordPress"/>
 </p>
 
 ### Database & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
 </p>
 
 ---
@@ -75,7 +72,7 @@ My current focus is strengthening **DSA and Java**, while expanding into **backe
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🗜️ Universal Compressor
 
@@ -89,15 +86,15 @@ Lossless compression tool designed to handle multiple file types.
 * ~60–70% average compression
 * Binary file I/O
 * Data integrity during decompression
-* Supports images, audio, video, PDFs & more
+* Supports images, audio, video, PDFs and more
 
-<a href="YOUR_COMPRESSOR_REPO">
-  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://un1com.netlify.app/">
+  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Universal Compressor"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📚 Library Management System
 
@@ -107,22 +104,18 @@ Desktop application for managing library operations.
 
 **Features**
 
-* Admin & user authentication
-* Book issue / return
+* Admin and user authentication
+* Book issue and return
 * Inventory management
 * Search functionality
 * Fine calculation
 * MySQL database integration
 
-<a href="YOUR_LIBRARY_REPO">
-  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📊 Sales Analytics Dashboard
 
@@ -138,13 +131,13 @@ Interactive dashboard for analysing business performance.
 * Dynamic filters
 * Drill-down analysis
 
-<a href="YOUR_DASHBOARD_REPO">
-  <img src="https://img.shields.io/badge/View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<a href="https://app.powerbi.com/groups/me/reports/06122abf-ddf4-4fdc-8f4e-9ef01a8944fc?ctid=bbc2175e-52d1-4ed6-bc3a-3ac479f5839d&pbi_source=linkShare&bookmarkGuid=7e5d8c72-6a9d-405e-88ea-0eebb6e08033">
+  <img src="https://img.shields.io/badge/View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Sales Dashboard"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎬 Netflix Clone
 
@@ -157,10 +150,6 @@ Responsive Netflix-inspired frontend.
 * Navigation
 * Category interactions
 * Responsive UI
-
-<a href="YOUR_NETFLIX_REPO">
-  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </td>
 </tr>
@@ -220,12 +209,12 @@ Responsive Netflix-inspired frontend.
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaldeepShubham&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VishaldeepShubham&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -240,7 +229,7 @@ Responsive Netflix-inspired frontend.
 
 # 🏆 Certifications & Activities
 
-| Certification / Activity             |                                 |
+| Certification / Activity             | Status                          |
 | ------------------------------------ | ------------------------------- |
 | ☁️ Google Cloud Computing Foundation | Completed                       |
 | 🏅 NPTEL DBMS                        | Elite                           |
@@ -274,6 +263,15 @@ DSA
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://linkedin.com/in/vishal-deep06">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://vd-port.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <p align="center">
   <i>Thanks for visiting my profile.</i>
