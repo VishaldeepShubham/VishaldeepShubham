@@ -209,7 +209,7 @@ Responsive Netflix-inspired frontend.
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaldeepShubham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaldeepShubham&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
@@ -217,8 +217,12 @@ Responsive Netflix-inspired frontend.
   <img src="https://streak-stats.demolab.com?user=VishaldeepShubham&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+---
+
+# 🐍 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaldeepShubham&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
